@@ -5,11 +5,12 @@
 ## About Us
 
 * [🏳 Introduction](about-us/introduction.md)
+* [⚙ Perks and Services](about-us/perks-and-services.md)
 * [⚖ Hub Overwiew](about-us/hub-overwiew.md)
 * [✨ Why choose our Hub?](about-us/why-choose-our-hub.md)
 * [🎁 What do we offer?](about-us/what-do-we-offer.md)
 
-## Core Features&#x20;
+## Core Features
 
 * [ℹ How does it work?](core-features/how-does-it-work.md)
 * [📺 Projects Showroom](core-features/projects-showroom.md)
