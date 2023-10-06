@@ -28,6 +28,6 @@ Our platform provides a one-stop-shop for all your crypto needs, allowing you to
 \
 
 
-<figure><img src="../.gitbook/assets/collab example (1).png" alt=""><figcaption><p>Cross Collab Example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Galxe Campaigs Example</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Galxe Profile Engagement</p></figcaption></figure>
