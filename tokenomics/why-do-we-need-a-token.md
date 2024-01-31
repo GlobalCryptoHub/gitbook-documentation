@@ -17,12 +17,12 @@ layout:
     visible: true
 ---
 
-# ❓ Why do we need a token?
+# ⚖ Duonomics: A Two-Token Reward System
 
-Introducing a token to our ecosystem provides a unique identity and sense of direction for our program. As is the case with many other crypto projects, our token will be utilized as a means of providing rewards to our users in exchange for exposure.
+**Key Features:**
 
-Our token distribution will be done mostly through NFTs. By using this approach, we can decrease the supply in concordance with the NFTs sold thus keeping the inflation low by burning the unsold Token NFTs. It will help us have a fair launch with token utility from day 1.
+1. **Two-Token Model:** Our system operates on the premise of two distinct tokens, designed to foster fairness and transparency in reward distribution. The nuances of this model align with the proven mechanisms seen in established cryptocurrency mining practices.
+2. **Fair Rewards:** The two-token model is intricately designed to emulate the fairness inherent in traditional mining processes. By adopting this approach, we aim to create a reward system that stands out for its integrity and equitable distribution.
+3. **Mining Elements:** Duonomics integrates essential mining elements, adding depth and complexity to the reward system. This inclusion is poised to contribute to the overall robustness and effectiveness of our platform.
 
-The GCH token will serve as a critical component of our ecosystem, providing a way for our users to earn rewards and interact with our program more effectively. As users earn tokens through completing quests and other tasks, they'll be able to use them to unlock additional benefits, access new features, and receive other incentives.
-
-Furthermore, the token will be integrated with the other components of our Hub, such as the Reward Pool and Global Vault. Ultimately, the token serves as a means of building a stronger and more engaged community, one that is incentivized to participate actively and productively in our program, and that is motivated to help us achieve our goals and vision.\
+**Coming Soon:** Detailed insights into the two-token model and mining elements will be unveiled in full after the official launch of our app. Stay tuned for an in-depth exploration of how Duonomics is revolutionizing reward systems in the blockchain space.\

@@ -1,11 +1,6 @@
 ---
 description: The Global Gateway collection
-cover: ../.gitbook/assets/OG banner.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -20,33 +15,24 @@ layout:
 
 # 🎫 The Global Gateway NFT
 
-SUPPLY: 3000 \
-CHAIN: TBD\
-PRICE: TBA\
-TOTAL SOLD: 2000 \
-FREE NFTs: 400 \
-Global Vault: 400 \
-Team and partners: 200 \
+The architecture of the Global Gateway NFT has been carefully crafted to serve as both a rewarding mechanism for early community members and as an investment opportunity. The NFT introduces a tiered rarity system, enhancing the mining capabilities of its holders:
 
+1. **25% Extra Mining Power:** Grants holders a 25% boost in their mining power.
+2. **50% Extra Mining Power:** Grants holders a 50% boost in their mining power.
+3. **100 Extra Mining Power:** Grants holders  100% boost in their mining power.
 
-<figure><img src="../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+\
+**Perks**
 
-The Global Gateway collection is made specifically for users who believe in the project's long-term success and want to take part in decisions, direction and fund sharing.\
-\
-The first 200 NFTs can be acquired for FREE by the early community members for engaging with our Zealy questboard! \
-To buy an NFT, you must acquire a WL role in our discord server.\
-Our mint approach is organic and slow. Will take place in 10 phases spread over a longer period of time with 10 Free mints and 200 NFTs paid in each phase.\
-\
-\
-**Holding and NFT will give the following benefits:**\
-\
-1\. Users can propose different initiatives and vote on the Hubs direction, profit sharing, investments, marketing..etc\
-2\. Quarterly profit sharing from the Global Vault. Rules must be followed in order to make the initiative sustainable!\
-3\. Free GCH Token NFT airdrop \
-4\. Possibility of airdrops from partner projects\
-5\. Access to private channels such as the OG chat, Trading Signals, and market insights\
-6\. Opportunities to participate in private sales/NFT mints without the need to acquire a White List role. This perk is very helpful for people living in countries where participating in such events is forbidden.\
-\
+* **Up to 100% Extra Mining Power:** Secure your NFT and mine at a higher rate
+* **Voting and Proposal Power:** Holders can actively participate in decision-making processes through voting and proposing changes to the ecosystem.
+* **Extra Earning Opportunities:** Holders can apply for additional earning opportunities by verifying proof-of-work quests.
+* **GCH Token Airdrop (from the treasury):** A unique feature offering token airdrops directly from the treasury. Starting from month 6
+* **Free Participation in Private Sales:** No whitelist requirements or geographical restrictions, providing free access to exclusive private sales.
+* **Free Access to Founders Chat:** Exclusive access to founders chat
+* **Early Feature Access:** Participants gain early access to new features, ensuring they stay at the forefront of the platform's developments.
+* **Possible Token Airdrops from Partners:** Potential for additional token airdrops from strategic partners
+* OG/WL slots open. Join our Discord for more info!
 
-
-<figure><img src="../.gitbook/assets/Brown Traditional Strategy Map Chart (8).png" alt=""><figcaption></figcaption></figure>
+\
+\

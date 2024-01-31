@@ -2,26 +2,34 @@
 
 * [👋 Welcome](README.md)
 
-## About Us
+## VISION
 
-* [🏳 Introduction](about-us/introduction.md)
-* [⚙ Perks and Services](about-us/perks-and-services.md)
-* [⚖ Hub Overwiew](about-us/hub-overwiew.md)
-* [✨ Why choose our Hub?](about-us/why-choose-our-hub.md)
-* [🎁 What do we offer?](about-us/what-do-we-offer.md)
+* [🏳 Introduction](vision/introduction.md)
+* [⚙ Beyond Crypto Usage](vision/beyond-crypto-usage.md)
 
-## Core Features
+## For Creators
 
-* [ℹ How does it work?](core-features/how-does-it-work.md)
-* [📺 Projects Showroom](core-features/projects-showroom.md)
-* [💵 Reward Pool](core-features/reward-pool.md)
+* [ℹ How it works?](for-creators/how-does-it-work.md)
+
+## FOR USERS
+
+* [ℹ User Gratification](for-users/user-gratification.md)
+* [🌐 Ambassador Program](for-users/ambassador-program.md)
+
+## CORE FEATURES
+
 * [🏧 Global Vault](core-features/global-vault.md)
-* [🗝 Core Projects](core-features/core-projects.md)
-* [🍔 Owners Revenue](core-features/owners-revenue.md)
+
+## MINING POOLS
+
+* [⛏ Introducing quest mining pools](mining-pools/introducing-quest-mining-pools.md)
+* [1⃣ Daily Mining Pool](mining-pools/daily-mining-pool.md)
+* [2⃣ Weekly Mining Pool](mining-pools/weekly-mining-pool.md)
+* [3⃣ Monthly Mining Pool](mining-pools/monthly-mining-pool.md)
 
 ## TOKENOMICS
 
-* [❓ Why do we need a token?](tokenomics/why-do-we-need-a-token.md)
+* [⚖ Duonomics: A Two-Token Reward System](tokenomics/why-do-we-need-a-token.md)
 * [🪙 Token Details](tokenomics/token-details.md)
 * [🎫 The Global Gateway NFT](tokenomics/the-global-gateway-nft.md)
 
