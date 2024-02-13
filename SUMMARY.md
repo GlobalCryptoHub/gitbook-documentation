@@ -35,8 +35,8 @@
 
 ## Links
 
+* [🔗 Website](https://globalcryptohub.io/)
 * [🔗 Twitter](https://twitter.com/GlobalCryptopro)
 * [🔗 Discord](https://discord.gg/9BDjb3GrHA)
 * [🔗 Crew3/Zealy](https://zealy.io/c/globalcryptohub/questboard)
 * [🔗 Galxe Space](https://galxe.com/GlobalCryptoHub)
-* [🔗 Website coming soon](links/website-coming-soon.md)
